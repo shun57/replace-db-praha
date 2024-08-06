@@ -1,0 +1,4 @@
+node_modules
+praha-ddd-firebase-adminsdk.json
+dist
+.env
